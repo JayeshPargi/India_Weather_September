@@ -1,6 +1,6 @@
 # India Weather September: Telemetry Command Center 🌦️📊🐍
 
-A high-performance, dark-mode analytical data pipeline and dashboard engineered to automate weather data ingestion, model regional weather extremes across India, evaluate statistical correlations, and benchmark severe wind/storm hazards.
+A high-performance, analytical data pipeline and dashboard engineered to automate weather data ingestion, model regional weather extremes across India, evaluate statistical correlations, and benchmark severe wind/storm hazards.
 
 ---
 
